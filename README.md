@@ -4,8 +4,8 @@
 qs.go
 ```
 
-El uso está documentado en el test que acompaña a la fuente.
+Run the Go Querystring test next to the implementation for concrete examples.
 
-Parsear y construir query strings de URL con encoding, sin dependencias externas.
+Parse and build URL query strings with encoding — dependency-free.
 
-Sin dependencias, sin servicio que ejecutar — solo la biblioteca estándar.
+Go Querystring uses only the go standard library; there is no service or dependency to install.
